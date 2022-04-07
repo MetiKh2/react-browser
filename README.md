@@ -1,1 +1,1 @@
-[Show live](metibrowser.netlify.app)
+[Show live](https://metibrowser.netlify.app)
